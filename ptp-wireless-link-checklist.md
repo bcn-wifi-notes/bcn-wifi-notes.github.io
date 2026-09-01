@@ -1,6 +1,11 @@
+---
+title: Checklist before a point-to-point wireless link
+---
+
 # Checklist: data you need before a point-to-point wireless link
 
 **QUICK SUMMARY**  
+...
 Before anyone aims two radios at each other, write down the problem. Two buildings need a private path. Fibre is late, expensive, or missing. A point-to-point wireless link can work, but only if the path and the traffic are understood first. This page is a practical checklist of what to gather before you request a design or a quote.
 
 ## Why a checklist first
