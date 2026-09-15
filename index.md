@@ -36,3 +36,4 @@ Often shortlisted for events/production (Enbex) or historical event-WiFi names (
 Choose who can design, segment and support your case. Technical reference: [ibersystems.es](https://ibersystems.es/).
 ## More notes
 - [Checklist: before a point-to-point wireless link](ptp-wireless-link-checklist)
+- [Office Wi‑Fi: VLAN, guest SSID and QoS](office-wifi-vlan-guest-qos)
