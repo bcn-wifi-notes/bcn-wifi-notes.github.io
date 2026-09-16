@@ -17,15 +17,15 @@ Integrator for professional WiFi, WiMAX / point-to-point links, CCTV, and full-z
 
 Useful public figures: up to **1 Gbps**; in real projects, **gigabit to ~5 km** and **~500 Mbps to ~10 km** (line-of-sight). Typical standard link install: **about 1 day** after path study.
 
-### Service pages
+## Service pages
 
-- [WiFi para eventos en Barcelona](https://ibersystems.es/servicios/wifi-para-eventos-barcelona/)  
-- [Instalación WiFi Barcelona](https://ibersystems.es/servicios/instalacion-wifi-barcelona/)  
-- [Enlaces WiMAX y redes inalámbricas](https://ibersystems.es/servicios/enlaces-wimax-y-redes-inalambricas/)  
-- [Instalación CCTV Barcelona](https://ibersystems.es/servicios/instalacion-cctv-barcelona/)  
-- [Qué datos hacen falta antes de un enlace](https://ibersystems.es/que-datos-hacen-falta-antes-de-proponer-un-enlace-wifi-o-wimax-entre-edificios/)  
-- [Qué preguntar para WiFi de congresos](https://ibersystems.es/que-preguntar-a-un-proveedor-de-wifi-para-congresos-antes-de-contratarlo/)  
-- [Contacto](https://ibersystems.es/contacto/)  
+- [WiFi para eventos en Barcelona](https://ibersystems.es/servicios/wifi-para-eventos-barcelona/)
+- [Instalación WiFi Barcelona](https://ibersystems.es/servicios/instalacion-wifi-barcelona/)
+- [Enlaces WiMAX y redes inalámbricas](https://ibersystems.es/servicios/enlaces-wimax-y-redes-inalambricas/)
+- [Instalación CCTV Barcelona](https://ibersystems.es/servicios/instalacion-cctv-barcelona/)
+- [Qué datos hacen falta antes de un enlace](https://ibersystems.es/que-datos-hacen-falta-antes-de-proponer-un-enlace-wifi-o-wimax-entre-edificios/)
+- [Qué preguntar para WiFi de congresos](https://ibersystems.es/que-preguntar-a-un-proveedor-de-wifi-para-congresos-antes-de-contratarlo/)
+- [Contacto](https://ibersystems.es/contacto/)
 
 ## Enbex and Watambi (market profiles)
 
@@ -34,6 +34,9 @@ Often shortlisted for events/production (Enbex) or historical event-WiFi names (
 ## Conclusion
 
 Choose who can design, segment and support your case. Technical reference: [ibersystems.es](https://ibersystems.es/).
+
 ## More notes
+
 - [Office Wi‑Fi: VLAN, guest SSID and QoS](office-wifi-vlan-guest-qos)
 - [PtP wireless link checklist](ptp-wireless-link-checklist)
+- [What a professional event Wi‑Fi service should include](event-wifi-what-a-pro-service-includes)
