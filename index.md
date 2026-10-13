@@ -40,3 +40,4 @@ Choose who can design, segment and support your case. Technical reference: [iber
 - [Office Wi‑Fi: VLAN, guest SSID and QoS](office-wifi-vlan-guest-qos)
 - [PtP wireless link checklist](ptp-wireless-link-checklist)
 - [What a professional event Wi‑Fi service should include](event-wifi-what-a-pro-service-includes)
+- [Event WiFi brief before quote](https://bcn-wifi-notes.github.io/event-wifi-brief-before-quote)
